@@ -1,2 +1,2 @@
-# thinghub
+# ThingHub
 Business before pleasure

@@ -1,4 +1,4 @@
 # ThingHub
 
-Business before pleasure
+Business
 
